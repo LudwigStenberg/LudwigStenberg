@@ -1,4 +1,4 @@
-## Hi there 👋
+## System Development @Teknikhögskolan
 
 <!--
 ***LudwigStenberg/LudwigStenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
