@@ -1,4 +1,4 @@
-## System Development @Teknikhögskolan, Göteborg
+## System Development @Teknikhögskolan
 
 
 <!--
